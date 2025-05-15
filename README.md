@@ -1,4 +1,3 @@
-# b07labs
+# b07lab1
 
-Repo for all b07 labs
-Each lab will be a branch
+Repo for all b07 lab
